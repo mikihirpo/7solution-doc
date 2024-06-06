@@ -21,7 +21,7 @@ announcement:
 7JOBS Docs
 
 #description
-NEW THINKING NEW SOLUTION 
+NEW THINKING NEW SOLUTION
 ::
 
 ::div{.border.rounded-lg.shadow-md}
