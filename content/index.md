@@ -7,15 +7,15 @@ navigation: false
 ---
 actions:
   - name: Get Started
-    to: /getting-started
+    to: /data-encoding/introduction
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: #
     leftIcon: lucide:github
 announcement:
   title: Alpha Tested
   icon: noto:party-popper
-  to: /getting-started
+  to: /data-encoding/introduction
 ---
 #title
 7JOBS Docs
